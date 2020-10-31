@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sendezentrum-3341"
+                 "value":"buehne"
                 }],
          "type":"tilelayer",
          "visible":true,
