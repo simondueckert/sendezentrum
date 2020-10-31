@@ -76,8 +76,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":16,
          "firstgid":1,
-         "source":"..\/..\/..\/Aktivit\u00e4ten\/Desktop\/tilesets_deviant_milkian_1.tsx"
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":8,
