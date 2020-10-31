@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/events.ccc.de\/2020\/09\/04\/rc3-remote-chaos-experience\/"
+                 "value":"https:\/\/pretalx.com"
                 }],
          "type":"tilelayer",
          "visible":true,
