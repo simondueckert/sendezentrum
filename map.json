@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/rc3sendezentrum?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false\" width=600 height=400"
+                 "value":"https:\/\/zumpad.zum.de\/p\/rc3sendezentrum"
                 }],
          "type":"tilelayer",
          "visible":true,
