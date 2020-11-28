@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/simondueckert\/sendezentrum\/wiki"
+                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/rc3sendezentrum"
                 }],
          "type":"tilelayer",
          "visible":true,
