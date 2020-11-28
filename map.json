@@ -95,8 +95,8 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"bool",
-                 "value":false
+                 "type":"string",
+                 "value":"https:\/\/fahrplan.das-sendezentrum.de\/36c3\/schedule\/"
                 }],
          "type":"tilelayer",
          "visible":true,
