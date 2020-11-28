@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sendegate.de\/t\/sendezentrum-rc3-orga-thread"
+                 "value":"https:\/\/github.com\/simondueckert\/sendezentrum\/wiki"
                 }],
          "type":"tilelayer",
          "visible":true,
