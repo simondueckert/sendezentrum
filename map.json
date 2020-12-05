@@ -829,7 +829,84 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":50
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":51
+                        }],
+                 "id":48
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":50
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":51
+                        }],
+                 "id":49
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":51
+                        }],
+                 "id":50
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":50
+                        }],
+                 "id":51
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":18,
+         "firstgid":1705,
+         "image":"tileset-lagerfeuer.png",
+         "imageheight":96,
+         "imagewidth":576,
+         "margin":0,
+         "name":"tileset-lagerfeuer",
+         "spacing":0,
+         "tilecount":54,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
