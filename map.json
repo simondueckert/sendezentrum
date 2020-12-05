@@ -1139,16 +1139,20 @@
                 {
                  "animation":[
                         {
-                         "duration":150,
+                         "duration":200,
                          "tileid":57
                         }, 
                         {
-                         "duration":100,
+                         "duration":150,
                          "tileid":58
                         }, 
                         {
-                         "duration":150,
+                         "duration":200,
                          "tileid":59
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":58
                         }],
                  "id":57
                 }],
