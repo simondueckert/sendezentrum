@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/entropia.de\/Tschunk"
+                 "value":"https:\/\/www.kochwiki.org\/wiki\/Tschunk"
                 }],
          "type":"tilelayer",
          "visible":true,
