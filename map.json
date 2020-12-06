@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/simondueckert\/sendezentrum\/gh-pages\/tschunk-karldamke-cc-by.jpg"
+                 "value":"https:\/\/transfer.cogneon.de\/tschunk-karldamke-cc-by.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
