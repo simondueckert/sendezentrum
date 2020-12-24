@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/simondueckert.github.io\/sendezentrum\/sz-buehne.html"
+                 "value":"https:\/\/simondueckert.github.io\/sendezentrum\/sz-publikum.html"
                 }],
          "type":"tilelayer",
          "visible":true,
