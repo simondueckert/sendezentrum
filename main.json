@@ -107,9 +107,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ice2.somafm.com\/defcon-128-mp3"
+                 "value":"https:\/\/zumpad.zum.de\/p\/rc3sz-podcasttisch"
                 }],
          "type":"tilelayer",
          "visible":true,
