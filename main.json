@@ -355,7 +355,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rc3.world"
+                 "value":"https:\/\/fahrplan.events.ccc.de\/rc3\/2020\/Fahrplan\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
