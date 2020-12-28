@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/zumpad.zum.de\/p\/rc3sendezentrum"
+                 "value":"sz-podcastpatinnen"
                 }],
          "type":"tilelayer",
          "visible":true,
