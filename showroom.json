@@ -1414,6 +1414,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"SZ Banner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1659,6 +1665,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
