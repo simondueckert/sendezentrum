@@ -1250,6 +1250,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tileset-deviant-milkian",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/workadventu.re\/faq\/licence"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1480,6 +1486,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tileset-sz-banner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1493,6 +1505,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tileset-sz-deko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -2179,6 +2197,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
