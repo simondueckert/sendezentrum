@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge"
+                 "value":"world:\/\/lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
