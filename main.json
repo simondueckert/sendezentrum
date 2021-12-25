@@ -1522,15 +1522,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"@shiller79"
-                        }]
-                }, 
-                {
                  "id":24,
                  "properties":[
                         {
@@ -2183,16 +2174,6 @@
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"@ThomasWasTaken_"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
