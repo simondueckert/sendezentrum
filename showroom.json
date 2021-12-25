@@ -1427,6 +1427,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Lautsprecher",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -1847,9 +1853,25 @@
          "imagewidth":640,
          "margin":0,
          "name":"podcast-logos",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"All rights reserved"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -1860,6 +1882,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"chickbaby",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"free to use for commercial or non commercial https:\/\/forums.rpgmakerweb.com\/index.php?threads\/whtdragons-animals-and-running-horses-now-with-more-dragons.53552\/"
+                }],
          "spacing":0,
          "tilecount":96,
          "tileheight":32,
@@ -2042,6 +2070,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tileset-sz-deko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
