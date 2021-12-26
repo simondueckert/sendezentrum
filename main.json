@@ -510,7 +510,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/static.rc3.world\/contrib\/nextevent\/nextevent.html?assembly=sendezentrum"
+                         "value":"https:\/\/media.ccc.de\/v\/33c3-423-verabschiedung_sendezentrum\/oembed"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -518,34 +518,6 @@
                  "width":153.333333333333,
                  "x":418.666666666667,
                  "y":358.666666666667
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":39,
-         "name":"voc_video",
-         "objects":[
-                {
-                 "height":124.3125,
-                 "id":6,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/static.rc3.world\/contrib\/nextevent\/nextevent.html?assembly=sendezentrum"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":221,
-                 "x":129.5,
-                 "y":308.84375
                 }],
          "opacity":1,
          "type":"objectgroup",
