@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/isla-nublar.json#start_sendezentrum"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_sendezentrum"
                 }],
          "type":"tilelayer",
          "visible":true,

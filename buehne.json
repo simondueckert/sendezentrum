@@ -146,7 +146,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.test.c3voc.de\/rc3\/embed\/sendezentrum\/dash\/native"
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/sendezentrum\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
