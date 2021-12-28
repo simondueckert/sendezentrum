@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/simondueckert.github.io\/sendezentrum\/sz-publikum.html"
+                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#rc3-sendezentrum"
                 }],
          "type":"tilelayer",
          "visible":true,
