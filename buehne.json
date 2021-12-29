@@ -135,6 +135,34 @@
         }, 
         {
          "draworder":"topdown",
+         "id":40,
+         "name":"Badge",
+         "objects":[
+                {
+                 "height":72.8051029353971,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"7tijbeVXtJsrHn5IHujCYFCtKLWHvGorBv8fwNTTWKrsrjqTMw"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":212.262764896158,
+                 "x":133.305118050727,
+                 "y":222.517004746214
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":38,
          "name":"Websites",
          "objects":[
@@ -196,8 +224,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":40,
- "nextobjectid":3,
+ "nextlayerid":41,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
