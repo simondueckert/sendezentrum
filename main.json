@@ -146,19 +146,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Am Workshop teilnehmen"
-                }, 
-                {
-                 "name":"jtisiRoom",
-                 "type":"string",
-                 "value":"workshop-raum-4e1c"
+                 "value":"sz-workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
