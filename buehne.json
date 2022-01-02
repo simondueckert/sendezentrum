@@ -48,7 +48,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#rc3-sendezentrum"
+                 "value":"https:\/\/rc3sz.de\/wa\/video.php"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
