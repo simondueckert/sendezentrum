@@ -76,7 +76,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/fyyd.de\/fyydiverse\/fyyd.json#"
+                 "value":"\/_\/global\/fyyd.de\/fyydiverse\/fyyd.json#start-sz"
                 }],
          "type":"tilelayer",
          "visible":true,
