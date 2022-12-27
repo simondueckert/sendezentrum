@@ -1040,7 +1040,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/rc3sz.de\/wa\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
