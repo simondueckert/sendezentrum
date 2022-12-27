@@ -936,6 +936,34 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":48,
+         "name":"objectlayer",
+         "objects":[
+                {
+                 "class":"area",
+                 "height":135,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/das-sendezentrum.de\/podlove\/file\/677\/s\/webplayer\/c\/episode\/SZ016-Brigitte-Hagedorn.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":118,
+                 "x":19,
+                 "y":410
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 2784, 1417, 1418, 1419, 1420, 1421, 1422, 0, 0, 1381, 1382, 1383, 1384, 1385, 1386, 0, 0, 1345, 1346, 1347, 1348, 1349, 0, 1924, 1925, 0, 0, 0, 0, 0, 1350, 1351, 1352, 1353, 1354, 0, 0, 1134,
             0, 2800, 0, 0, 1602, 1603, 0, 0, 0, 0, 1614, 1615, 0, 0, 0, 0, 1602, 1603, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1134, 1135,
             0, 0, 0, 0, 1514, 1531, 0, 0, 0, 0, 1255, 1549, 0, 0, 0, 0, 2807, 2787, 0, 0, 0, 0, 2803, 1254, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1150,
@@ -1005,8 +1033,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":48,
- "nextobjectid":3,
+ "nextlayerid":49,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
