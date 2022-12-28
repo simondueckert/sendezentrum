@@ -1,11 +1,16 @@
-WA.chat.sendChatMessage('Willkommen im Sendezentrum', 'Sendezentrum');
+// WA.chat.sendChatMessage('Willkommen im Sendezentrum', 'Sendezentrum');
 
-const menu = WA.ui.registerMenuCommand('menu test',
-    {
-        callback: () => {
-            WA.chat.sendChatMessage('test');
-        }
-    })
+const myLayerSubscriber =  WA.room.area.onEnter("Lichtschalter").subscribe(() => {
+    WA.room.showLayer("nacht");
+    WA.state.saveVariable('nacht', true).catch(e => console.error('Something went wrong while saving variable', e));
+  });
+  
+  WA.room.area.onLeave("Lichtschalter").subscribe(() => {
+    WA.state.saveVariable('nacht', false).catch(e => console.error('Something went wrong while saving variable', e));
+   // myLayerSubscriber.unsubscribe();
+  });
 
-// Some time later, if you want to remove the menu:
-menu.remove();
+
+// WA.state.onVariableChange('licht').subscribe((value) => {
+//    console.log('Variable "licht" changed. New value: ', value);
+//});

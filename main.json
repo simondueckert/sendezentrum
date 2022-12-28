@@ -967,6 +967,30 @@
                  "width":64,
                  "x":31,
                  "y":62
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":5,
+                 "name":"var-nacht",
+                 "point":true,
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":906,
+                 "y":415
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":6,
+                 "name":"var-nacht-schlafzimmer",
+                 "point":true,
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1014,
+                 "y":514
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1073,6 +1097,17 @@
          "id":49,
          "name":"nacht",
          "opacity":0.8,
+         "properties":[
+                {
+                 "name":"dynamic",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"visible",
+                 "type":"string",
+                 "value":"{{{ var-nacht }}}"
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":39,
@@ -1108,6 +1143,17 @@
          "id":50,
          "name":"nacht-schlafzimmer",
          "opacity":0.71,
+         "properties":[
+                {
+                 "name":"dynamic",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"visible",
+                 "type":"string",
+                 "value":"var-nacht-schlafzimmer"
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":39,
@@ -1115,7 +1161,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":5,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
