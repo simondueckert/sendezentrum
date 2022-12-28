@@ -949,7 +949,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/rc3sz.de\/wa\/wc.html"
+                         "value":"https:\/\/rc3sz.de\/wa\/wc.php"
                         }, 
                         {
                          "name":"playAudio",
