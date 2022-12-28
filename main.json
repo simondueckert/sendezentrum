@@ -972,7 +972,7 @@
                  "class":"variable",
                  "height":0,
                  "id":5,
-                 "name":"var-nacht",
+                 "name":"varnacht",
                  "point":true,
                  "rotation":0,
                  "visible":true,
@@ -984,7 +984,7 @@
                  "class":"variable",
                  "height":0,
                  "id":6,
-                 "name":"var-nacht-schlafzimmer",
+                 "name":"varnachtschlafzimmer",
                  "point":true,
                  "rotation":0,
                  "visible":true,
@@ -1106,7 +1106,7 @@
                 {
                  "name":"visible",
                  "type":"string",
-                 "value":"{{{ var-nacht }}}"
+                 "value":"{{{varnacht}}}"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -1152,7 +1152,7 @@
                 {
                  "name":"visible",
                  "type":"string",
-                 "value":"var-nacht-schlafzimmer"
+                 "value":"{{{ varnachtschlafzimmer }}}"
                 }],
          "type":"tilelayer",
          "visible":false,
