@@ -952,6 +952,11 @@
                          "value":"https:\/\/rc3sz.de\/wa\/wc.php"
                         }, 
                         {
+                         "name":"openWebsiteAllowApi",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"http:\/\/ceehome.net:8000\/nsfw"
