@@ -947,6 +947,11 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/rc3sz.de\/wa\/wc.html"
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"http:\/\/ceehome.net:8000\/nsfw"
